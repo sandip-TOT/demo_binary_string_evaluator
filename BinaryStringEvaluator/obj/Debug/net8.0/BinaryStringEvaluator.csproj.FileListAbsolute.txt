@@ -1,0 +1,14 @@
+D:\Projects\BinaryStringEvaluator\BinaryStringEvaluator\BinaryStringEvaluator\bin\Debug\net8.0\BinaryStringEvaluator.exe
+D:\Projects\BinaryStringEvaluator\BinaryStringEvaluator\BinaryStringEvaluator\bin\Debug\net8.0\BinaryStringEvaluator.deps.json
+D:\Projects\BinaryStringEvaluator\BinaryStringEvaluator\BinaryStringEvaluator\bin\Debug\net8.0\BinaryStringEvaluator.runtimeconfig.json
+D:\Projects\BinaryStringEvaluator\BinaryStringEvaluator\BinaryStringEvaluator\bin\Debug\net8.0\BinaryStringEvaluator.dll
+D:\Projects\BinaryStringEvaluator\BinaryStringEvaluator\BinaryStringEvaluator\bin\Debug\net8.0\BinaryStringEvaluator.pdb
+D:\Projects\BinaryStringEvaluator\BinaryStringEvaluator\BinaryStringEvaluator\obj\Debug\net8.0\BinaryStringEvaluator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\BinaryStringEvaluator\BinaryStringEvaluator\BinaryStringEvaluator\obj\Debug\net8.0\BinaryStringEvaluator.AssemblyInfoInputs.cache
+D:\Projects\BinaryStringEvaluator\BinaryStringEvaluator\BinaryStringEvaluator\obj\Debug\net8.0\BinaryStringEvaluator.AssemblyInfo.cs
+D:\Projects\BinaryStringEvaluator\BinaryStringEvaluator\BinaryStringEvaluator\obj\Debug\net8.0\BinaryStringEvaluator.csproj.CoreCompileInputs.cache
+D:\Projects\BinaryStringEvaluator\BinaryStringEvaluator\BinaryStringEvaluator\obj\Debug\net8.0\BinaryStringEvaluator.dll
+D:\Projects\BinaryStringEvaluator\BinaryStringEvaluator\BinaryStringEvaluator\obj\Debug\net8.0\refint\BinaryStringEvaluator.dll
+D:\Projects\BinaryStringEvaluator\BinaryStringEvaluator\BinaryStringEvaluator\obj\Debug\net8.0\BinaryStringEvaluator.pdb
+D:\Projects\BinaryStringEvaluator\BinaryStringEvaluator\BinaryStringEvaluator\obj\Debug\net8.0\BinaryStringEvaluator.genruntimeconfig.cache
+D:\Projects\BinaryStringEvaluator\BinaryStringEvaluator\BinaryStringEvaluator\obj\Debug\net8.0\ref\BinaryStringEvaluator.dll
